@@ -1,2 +1,3 @@
 # terminal-here
-Mac service application that lets you right click a folder and open terminal at that directory
+Simple mac shortcut allowing users to right click folder and open terminal in that directory
+
