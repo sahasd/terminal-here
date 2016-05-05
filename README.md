@@ -16,5 +16,4 @@ Simple mac shortcut allowing users to right click folder and open terminal in th
 2. Select Open Terminal Here and move it to trash
 
 
-
-**If you found terminal-here please star the repository and as always feel free to report any issues or suggestions. Thank you for your support!**
+If you found terminal-here useful please star the repository and as always feel free to report any issues or suggestions. Thank you for your support!
