@@ -11,7 +11,7 @@ Simple mac shortcut allowing users to right click folder and open terminal in th
 5. **Enjoy!**
 
 
-## uninstalling
+## Uninstalling
 1. Navigate to Library>Services 
 2. Select Open Terminal Here and move it to trash
 
