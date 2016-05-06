@@ -11,7 +11,7 @@ Simple mac shortcut allowing users to right click folder and open terminal in th
 5. **Enjoy!**
 
 ## Keyboard Shortcut
-If you would like to open your terminal even faster, feel free to enable a keyboard shortcut. Keep in mind that if the shortcut you wish to use is already being used by another application/service it won't work with  Terminal-here. Just follow the gif and it should work.
+If you would like to open your terminal even faster, follow the gif to enable a keyboard shortcut. Keep in mind that if the shortcut you wish to use is already being used by another service it won't work with Terminal-here. 
 ![alt tag](/assets/keyshortcutdemo.gif)
 
 ## Uninstalling
