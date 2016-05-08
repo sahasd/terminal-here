@@ -18,5 +18,6 @@ If you would like to open your terminal even faster, follow the gif to enable a 
 1. Navigate to Library>Services 
 2. Select Open Terminal Here and move it to trash
 
+## Other
 
 If you found terminal-here useful please star the repository and as always feel free to report any issues or suggestions. Thank you for your support!
