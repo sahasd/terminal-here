@@ -19,9 +19,9 @@ If you would like to open your terminal even faster, follow the gif to enable a 
 2. Select Open Terminal Here and move it to trash
 
 ## Other
-If you would like to use xterm instead of terminal, find the workflow file and **replace** open -a term with open -a xterm\n
-If you prefer x11, same as before except use open -a x11 instead\n 
-Do not delete the symbol that comes after the open -a terminal (or whichever application you are using), it is necessary to open the specified directory
+- If you would like to use xterm instead of terminal, find the workflow file and **replace** open -a term with open -a xterm
+- If you prefer x11, same as before except use open -a x11 instead
+- Do not delete the symbol that comes after the open -a terminal (or whichever application you are using), it is necessary to open the specified directory
 
 
 If you found terminal-here useful please star the repository and as always feel free to report any issues or suggestions. Thank you for your support!
